@@ -1,0 +1,17 @@
+# Pytest
+pytestcache/
+.pytest_cache/
+
+# Pytest-bdd
+.bdd/
+
+# Playwright
+.playwright-report/
+playwright-report.json
+test-results/
+
+.idea/
+
+__pycache__/
+
+*.log
