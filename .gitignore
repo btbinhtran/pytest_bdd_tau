@@ -11,6 +11,7 @@ playwright-report.json
 test-results/
 
 .idea/
+venv/
 
 __pycache__/
 
